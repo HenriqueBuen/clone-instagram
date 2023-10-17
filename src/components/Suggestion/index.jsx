@@ -10,7 +10,7 @@ export function Suggestion() {
     const slice = suggestions.slice(0, limitUsers)
 
     useEffect(() => {
-        fetch(`https://api.github.com/users/gabrieldiasss/followers`)
+        fetch(`https://api.github.com/users//HenriqueBuen/followers`)
         .then((response) => {
             return response.json()
         })
