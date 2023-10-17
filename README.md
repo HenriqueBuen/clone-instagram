@@ -11,6 +11,6 @@ Currently, two official plugins are available:
 
 
 
-<h1>Olá a todos(as) <h1/>
+Olá a todos
 
 Gostaria de compartilhar uma emocionante atividade que o Professor Gabriel nos deu recentemente em nossa disciplina de Desenvolvimento. O desafio era criar um clone  do Instagram, um dos aplicativos de mídia social mais populares do mundo. Esta tarefa, embora parecesse intimidante inicialmente, provou ser uma oportunidade incrível para aprender e aplicar nossas habilidades de programação web.
